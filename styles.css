@@ -34,3 +34,8 @@ svg.bi.bi-star-fill {
 input.form-control {
     min-width: 350px;
 }
+
+.plant-footer {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
