@@ -1,0 +1,18 @@
+/* * {
+    outline: 1px solid red;
+} */
+
+/* .row {
+    height: 100px;
+} */
+
+.carousel-caption {
+    border-radius: 15px;
+    width: 35%;
+    margin-left: 210px;
+}
+
+.business-icon {
+    display: flex;
+    justify-content: center;
+}
