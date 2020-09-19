@@ -6,6 +6,10 @@
     height: 100px;
 } */
 
+html {
+    scroll-behavior: smooth;
+}
+
 .carousel-caption {
     border-radius: 15px;
     width: 35%;
@@ -21,4 +25,12 @@
     .plant-three-second {
         margin-top: 40px;
     }
+}
+
+svg.bi.bi-star-fill {
+    color: #FFF200;
+}
+
+input.form-control {
+    min-width: 350px;
 }
